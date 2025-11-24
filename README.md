@@ -93,22 +93,6 @@ View your comprehensive study tracker at `/progress/cfp-study-tracker.md` to see
 - Adapts to your learning style
 - Focuses on deep understanding, not just memorization
 
-## Current Status (3 Days to Exam!)
-
-**COMPLETE Domains** (60% of exam weight):
-- ✅ Retirement Planning (18%) - All 10 topics mastered
-- ✅ Investment Planning (17%) - All 9 topics mastered
-- ✅ Tax Planning (14%) - All 8 topics mastered
-- ✅ Insurance Planning (11%) - All 10 topics mastered
-
-**In Progress**:
-- 🟡 General Principles (15%) - 8/10 topics (80% complete)
-- 🟡 Estate Planning (10%) - 9/14 topics (64% complete)
-- 🟡 Psychology (7%) - 2/6 topics (33% complete)
-
-**Not Started**:
-- ⚪ Professional Conduct (8%) - 0/6 topics
-
 ## Study Materials
 
 **2024 Dalton Review Slides** (1,088 pages total):
