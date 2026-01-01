@@ -1,184 +1,182 @@
-# CFP Exam Study Repository
+# 股票投资学习仓库 (Stork Investment Study)
 
-🎉 **I PASSED the CFP Exam on November 10, 2025!** 🎉
+🎯 **我的股票投资学习之旅** 🎯
 
-This is my personal study repository that helped me pass the Certified Financial Planner (CFP) exam on my second attempt. After failing in November 2024, I rebuilt my study approach using AI-powered guided learning with Claude Code - and it made all the difference.
-
-**Thanks to AI and Claude Code**, I went from a failed attempt to **82% mastery** (60/73 topics) across 23 focused study sessions, ultimately passing the exam.
-
-**Let's connect on LinkedIn**: [linkedin.com/in/chenran818](https://linkedin.com/in/chenran818) ,**Twitter(X)** [https://x.com/chenran818](https://x.com/chenran818) 和 **知乎**[https://www.zhihu.com/people/chenran](https://www.zhihu.com/people/chenran)
+这是一个使用苏格拉底式学习法和 AI 交互来学习股票投资知识的个人学习仓库。本项目 fork 自 [chenran818/CFP-Study](https://github.com/chenran818/CFP-Study)，改造为专注于股票投资学习。
 
 ---
 
-**Final Exam Stats**:
-- **Exam Date**: November 10, 2025 ✅ PASSED
-- **Final Progress**: 82% (60/73 CFP topics mastered)
-- **Study Sessions**: 23 sessions (Oct 11 - Nov 7, 2025)
-- **Study Materials**: 1,088 pages (2024 Dalton Review slides)
+## 学习目标
 
-## How This Works
+作为股票投资纯小白，我的学习目标是：
 
-This repository uses Claude Code as an interactive CFP exam tutor that:
-- Teaches using the Socratic method (asking what you know first)
-- Provides concise (~200 word) explanations
-- Verifies your understanding with follow-up questions
-- Adapts teaching style based on your responses
-- **Tracks every learning session to personalize your study experience**
+### 核心目标
+1. **理解"滚IC"策略** - 网络大V推荐的投资方法，想从底层逻辑和原理上理解
+2. **判断策略合理性** - 学会独立分析投资策略是否真的可行
 
-## Repository Structure
+### 基础知识
+- 股票市场基础概念
+- 期权（Options）的本质和运作原理
+- 做多（Long）与做空（Short）的区别
+- 各种期权策略的风险和收益
 
-```
-/sessions/                    # 23 daily learning sessions documented
-  /2025-10-11/               # One folder per study day
-  /2025-10-17/               # Sessions from Oct 11 - Nov 7
-  /2025-11-07/
-  SESSION-TEMPLATE.md        # Template for documenting sessions
-
-/progress/                    # Single source of truth for exam prep
-  cfp-study-tracker.md       # Comprehensive tracker with:
-                             # - All 73 CFP topics mapped
-                             # - Topics mastered (60/73)
-                             # - Knowledge gaps identified
-                             # - Study plan for remaining days
-
-/2024 Slides/                 # Complete 2024 Dalton Review materials
-  2024 TDR Estate slides.pdf
-  2024 TDR Fundamentals slides.pdf
-  2024 TDR Insurance slides.pdf
-  2024 TDR Investments slides.pdf
-  2024 TDR Retirement slides.pdf
-  2024 TDR Tax slides.pdf
-
-CLAUDE.md                     # AI tutor instructions (Socratic method)
-README.md                     # This file
-```
-
-## How to Use
-
-### Daily Study Sessions
-
-1. Open Claude Code in this repository
-2. Ask questions about CFP topics naturally - just like talking to a tutor
-3. Answer the comprehension check questions Claude asks
-4. After each session, Claude will automatically document:
-   - What you learned
-   - What you struggled with
-   - What you mastered
-   - What to review next
-
-### Review Sessions
-
-When you want to review, simply ask Claude:
-- "Let's review topics I've struggled with"
-- "What should I focus on today?"
-- "Quiz me on my weak areas"
-- "Show me my progress"
-
-Claude will read your session history and create a personalized review based on your past performance.
-
-### Track Your Progress
-
-View your comprehensive study tracker at `/progress/cfp-study-tracker.md` to see:
-- Overall exam readiness (currently 82%)
-- Which domains are complete (4 major domains ✅)
-- Remaining knowledge gaps
-- Prioritized study plan for exam day
-
-## Study Philosophy
-
-**Guided Learning Approach:**
-- Conversational and judgment-free
-- Builds on your existing knowledge
-- Checks understanding before moving forward
-- Adapts to your learning style
-- Focuses on deep understanding, not just memorization
-
-## Study Materials
-
-**2024 Dalton Review Slides** (1,088 pages total):
-- Estate Planning (200 pages)
-- Fundamentals (90 pages)
-- Insurance (188 pages)
-- Investments (188 pages)
-- Retirement (182 pages)
-- Tax (150 pages)
-
-All materials have been thoroughly mapped to the 73 CFP exam topics.
-
-## Free Study Resources
-
-In addition to the Dalton Review materials, here are some excellent **free resources** that can supplement your CFP exam prep:
-
-**Podcasts & Audio:**
-- [Open Exam Prep Podcast](https://open.spotify.com/show/55EmWfdtPaK641q4Rk3mI1) - Free CFP exam prep podcast on Spotify
-- [Financial Planning Essentials Playlist](https://open.spotify.com/playlist/6GUIZvnpaiOiYmXkanqwZ8) - Study music playlist on Spotify
-
-**Video Content:**
-- [Open Exam Prep YouTube](https://www.youtube.com/@Open-exam-prep) - Free video content covering CFP exam topics
-
-**Website:**
-- [open-exam-prep.com](https://open-exam-prep.com/) - Additional free resources and study materials
-
-These free resources are great for passive learning during commutes, workouts, or downtime.
-
-## Key Features
-
-**Personalized Learning**:
-- 23 documented study sessions with detailed notes
-- Socratic teaching method (builds on what you already know)
-- Adaptive explanations based on your responses
-- Practice problems tailored to your weak areas
-
-**Comprehensive Tracking**:
-- Every session automatically documented
-- Knowledge gaps identified and tracked
-- Topics mastered with confidence levels
-- Progress measured against exam weights
-
-**Evidence-Based Approach**:
-- All answers verified with authoritative sources (IRS.gov, CFP Board)
-- No guessing on technical questions
-- Citations provided for complex rules
-- Focus on understanding "why" not just "what"
-
-## How to Use This Repository for Your Own CFP Exam Prep
-
-Want to use this AI-powered study system for your own CFP exam preparation? It's simple:
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/chenran818/CFP-Study.git
-   cd CFP-Study
-   ```
-
-2. **Clear my study history** (start fresh):
-   ```bash
-   rm -rf progress/ sessions/
-   ```
-
-3. **Run Claude Code**:
-   ```bash
-   claude-code
-   ```
-
-4. **That's it!** Start asking CFP questions and Claude will:
-   - Teach you using the Socratic method
-   - Create new `progress/` and `sessions/` folders automatically
-   - Track your learning journey just like it did for me
-   - Adapt to your learning style
-
-The `CLAUDE.md` file contains all the instructions for how Claude should tutor you. The `2024 Slides/` folder has all the study materials already mapped to CFP topics. **It works magically!**
-
-## Getting Started
-
-Just start a conversation with Claude Code and ask your first CFP question. Claude will guide you from there while automatically tracking your progress.
+### 宏观视角
+- 世界局势如何影响股市
+- 科技和经济发展与股票的关系
+- 如何建立独立的投资判断能力
 
 ---
 
-## About the Author
+## 这个项目如何工作
 
-After failing the CFP exam in November 2024, I knew I needed a different approach. Traditional study methods weren't working for me. Using Claude Code as my AI study partner transformed my preparation - the Socratic teaching method, personalized feedback, and systematic progress tracking made complex financial planning concepts finally click.
+本仓库在 **Cursor IDE** 中使用，通过 AI 对话进行交互式投资学习：
 
-If you're preparing for the CFP exam or any professional certification, I hope this repository inspires you to leverage AI tools in your learning journey.
+- **苏格拉底式教学** - 先问你已经知道什么，再补充知识
+- **简洁解释** - 每次约200字的核心解释
+- **理解验证** - 通过追问确认你真正理解
+- **个性化学习** - 根据你的反馈调整教学方式
+- **学习追踪** - 记录每次学习会话，持续优化学习体验
 
-**Connect with me**: [linkedin.com/in/chenran818](https://linkedin.com/in/chenran818)
+---
+
+## 仓库结构
+
+```
+/sessions/                     # 每日学习会话记录
+  /YYYY-MM-DD/                # 按日期组织的学习记录
+    session-notes.md          # 每次学习的详细笔记
+  SESSION-TEMPLATE.md         # 学习笔记模板
+
+/progress/                     # 学习进度追踪
+  investment-study-tracker.md # 综合进度追踪文件，包含：
+                              # - 所有学习主题
+                              # - 已掌握的概念
+                              # - 知识缺口
+                              # - 下一步学习计划
+
+CLAUDE.md                      # AI导师指导原则（苏格拉底式教学）
+README.md                      # 本文件
+```
+
+---
+
+## 如何使用
+
+### 日常学习
+
+1. 在 **Cursor IDE** 中打开这个仓库
+2. 打开 AI 聊天面板（Cmd/Ctrl + L 或点击侧边栏）
+3. 像和导师对话一样自然地提问
+4. 回答 AI 的理解检查问题
+5. 每次学习后，AI 会自动记录：
+   - 学到了什么
+   - 哪里有困惑
+   - 哪些概念已掌握
+   - 下一步复习建议
+
+### 示例问题
+
+作为初学者，你可以从这些问题开始：
+
+**基础概念**:
+- "什么是股票？为什么公司要上市？"
+- "什么是做多和做空？"
+- "期权是什么？和股票有什么区别？"
+- "什么是看涨期权（Call）和看跌期权（Put）？"
+
+**核心策略**:
+- "什么是 Covered Call（备兑看涨期权）？"
+- "网上说的'滚IC'是什么意思？"
+- "这种策略的风险在哪里？"
+- "在什么市场条件下这种策略有效/无效？"
+
+**宏观分析**:
+- "美联储加息如何影响股市？"
+- "科技股为什么波动这么大？"
+- "如何看待市场周期？"
+
+### 复习会话
+
+想要复习时，可以在 Cursor 聊天中这样问：
+- "让我们复习一下我之前困惑的概念"
+- "今天应该重点学什么？"
+- "测试一下我对期权的理解"
+- "展示我的学习进度"
+
+---
+
+## 学习大纲
+
+### 第一阶段：股票基础（Fundamentals）
+- [ ] 股票市场的本质和运作
+- [ ] 股票价格的形成机制
+- [ ] 主要股票指数（标普500、纳斯达克等）
+- [ ] 股票投资的基本风险
+
+### 第二阶段：交易机制（Trading Mechanics）
+- [ ] 做多（Long）- 买入持有
+- [ ] 做空（Short）- 借股卖出
+- [ ] 保证金交易
+- [ ] 订单类型（限价单、市价单等）
+
+### 第三阶段：期权基础（Options Fundamentals）
+- [ ] 期权的定义和本质
+- [ ] 看涨期权（Call Options）
+- [ ] 看跌期权（Put Options）
+- [ ] 期权的四个基本操作：买入Call、卖出Call、买入Put、卖出Put
+- [ ] 期权的希腊字母（Delta, Gamma, Theta, Vega）
+- [ ] 时间价值和内在价值
+
+### 第四阶段：期权策略（Options Strategies）
+- [ ] 备兑看涨期权（Covered Call）
+- [ ] 保护性看跌期权（Protective Put）
+- [ ] 铁秃鹰策略（Iron Condor）
+- [ ] "滚IC"策略深度解析
+- [ ] 各策略的适用场景和风险
+
+### 第五阶段：风险管理（Risk Management）
+- [ ] 理解最大损失和最大收益
+- [ ] 仓位管理
+- [ ] 止损策略
+- [ ] 投资组合多元化
+
+### 第六阶段：宏观分析（Macro Analysis）
+- [ ] 利率与股市的关系
+- [ ] 通胀对投资的影响
+- [ ] 地缘政治与市场波动
+- [ ] 科技发展趋势与投资机会
+- [ ] 经济周期与板块轮动
+
+---
+
+## 学习哲学
+
+**引导式学习方法**:
+- 对话式、无压力的学习氛围
+- 基于你已有的知识构建
+- 确认理解后再继续深入
+- 适应你的学习风格
+- 注重深度理解，而非死记硬背
+
+**批判性思维**:
+- 不盲目相信任何"必胜"策略
+- 理解每个策略的风险和局限
+- 学会问"为什么"和"在什么条件下"
+- 培养独立判断能力
+
+---
+
+## 开始学习
+
+在 Cursor IDE 中打开这个项目，然后在聊天面板中直接开始对话。AI 会读取 `CLAUDE.md` 中的指导原则，以苏格拉底式教学法引导你学习。
+
+**推荐的第一个问题**:
+> "我是股票投资的完全新手，对期权、做空做多完全不懂。我想理解网上很多大V说的'滚IC'是什么意思，请从最基础的概念开始教我。"
+
+---
+
+## 关于这个项目
+
+这个项目改编自 [chenran818/CFP-Study](https://github.com/chenran818/CFP-Study)，原作者使用类似的方法成功通过了 CFP 考试。我希望用同样的苏格拉底式学习法来系统学习股票投资知识。
+
+**原作者**: [chenran818](https://github.com/chenran818) - 感谢开源分享这个学习方法！

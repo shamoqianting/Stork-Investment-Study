@@ -1,65 +1,77 @@
-# Session Notes - [DATE]
+# 学习会话笔记 - [日期]
 
-## Session Overview
-- **Date**: [YYYY-MM-DD]
-- **Duration**: [Approximate time spent]
-- **Main Topics**: [Brief list]
-
----
-
-## Questions Asked
-
-### Question 1: [Topic]
-**Student's Question**: [Exact question or topic requested]
-
-**Initial Understanding**: [What student knew before explanation]
-
-**Explanation Given**: [Summary of concept explained]
-
-**Comprehension Check**:
-- Question asked: [Verification question posed]
-- Student's response: [How they answered]
-- Understanding level: [Strong/Partial/Needs more work]
-
-**Follow-up**: [Additional clarifications or next steps]
+## 会话概述
+- **日期**: [YYYY-MM-DD]
+- **时长**: [大约学习时间]
+- **主要话题**: [简要列表]
 
 ---
 
-### Question 2: [Topic]
-[Same structure as above]
+## 问题和讨论
+
+### 问题 1: [话题]
+**学习者的问题**: [原始问题或请求的话题]
+
+**初始理解**: [解释前学习者知道什么]
+
+**解释内容**: [解释的概念摘要]
+
+**理解检查**:
+- 提出的问题: [用于验证的问题]
+- 学习者的回答: [他们如何回答]
+- 理解水平: [强/部分/需要更多练习]
+
+**跟进**: [额外的澄清或下一步]
 
 ---
 
-## Knowledge Gaps Identified
-
-| Topic | Severity | Notes |
-|-------|----------|-------|
-| [Topic name] | High/Med/Low | [What was challenging] |
+### 问题 2: [话题]
+[与上面相同的结构]
 
 ---
 
-## Topics Mastered Today
+## 识别的知识缺口
 
-| Topic | Confidence | Notes |
-|-------|------------|-------|
-| [Topic name] | High/Med | [What they understood well] |
-
----
-
-## Key Concepts Covered
-
-- **[Concept 1]**: [Brief note]
-- **[Concept 2]**: [Brief note]
+| 话题 | 严重程度 | 备注 |
+|------|----------|------|
+| [话题名称] | 高/中/低 | [什么是困难的] |
 
 ---
 
-## Action Items for Next Session
+## 今日掌握的话题
 
-- [ ] Review: [Topics that need follow-up]
-- [ ] Practice: [Areas needing more examples]
-- [ ] Explore: [New related topics to cover]
+| 话题 | 信心水平 | 备注 |
+|------|----------|------|
+| [话题名称] | 高/中 | [他们理解得好的地方] |
 
 ---
 
-## Notes
-[Any additional observations about learning style, common mistakes, areas of strength, etc.]
+## 涉及的关键概念
+
+- **[概念 1]**: [简要笔记]
+- **[概念 2]**: [简要笔记]
+
+---
+
+## 类比和记忆技巧
+
+*（记录任何帮助理解的类比或记忆方法）*
+
+---
+
+## 下次会话的行动项目
+
+- [ ] 复习: [需要跟进的话题]
+- [ ] 练习: [需要更多例子的领域]
+- [ ] 探索: [要覆盖的新相关话题]
+
+---
+
+## 备注
+[关于学习风格、常见错误、优势领域等的任何额外观察]
+
+---
+
+## 学习者反馈/问题
+
+*（记录学习者表达的任何特定困惑或后续问题）*
